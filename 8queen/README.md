@@ -1,3 +1,5 @@
+https://github.com/AldoHadid/KipasAngin/issues/1#issue-586738006
+
 #include <stdio.h>
 #include <conio.h>   
 #include <Windows.h>   
