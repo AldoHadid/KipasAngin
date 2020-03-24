@@ -1,4 +1,4 @@
-https://github.com/AldoHadid/KipasAngin/issues/1#issue-586738006
+https://github.com/AldoHadid/KipasAngin/issues/1#issue-586738006 (Gambar Hasil compile)
 
 #include <stdio.h>
 #include <conio.h>   
