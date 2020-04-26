@@ -1,3 +1,6 @@
+gambar compile https://github.com/AldoHadid/KipasAngin/issues/2#issue-607035880
+
+
 #include<stdio.h>
 #include<math.h>
 
