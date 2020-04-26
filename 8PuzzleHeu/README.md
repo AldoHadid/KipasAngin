@@ -1,4 +1,4 @@
- 
+ https://github.com/AldoHadid/KipasAngin/issues/5#issue-607061550 foto compile
  
  //Program untuk mencetak path dari root node ke destination node
   //untuk algoritma puzzle M * M -1 menggunakan Branch and Bound
