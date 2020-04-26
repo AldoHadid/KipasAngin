@@ -1,0 +1,8 @@
+Iteratif memperdalam kedalaman-pertama pencarian (IDS) 
+adalah pencarian ruang strategi di mana pencarian mendalam-terbatas dijalankan berulang kali, 
+meningkatkan batas kedalaman dengan setiap iterasi sampai mencapai, kedalaman negara tujuan dangkal. 
+IDS setara dengan luas-pertama pencarian, tetapi menggunakan memori lebih sedikit, pada setiap iterasi, 
+ia mengunjungi node dalam pohon pencarian dalam urutan yang sama seperti depth-first search (DFS), 
+tapi urutan kumulatif di mana node pertama kali mengunjungi secara efektif luasnya -pertama.
+
+Menurut saya IDS tidak dapat menentukan 8Puzzle, prinsip dari IDS mirip seperti DFS yaitu akan melooping terus sampai ke level yang paling rendah
