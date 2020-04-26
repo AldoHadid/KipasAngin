@@ -2,6 +2,7 @@ BFS
 
 BFS adalah metode pencarian yang dilakukan pada semua simpul dalam setiap level secara beurutan dari kiri ke kanan. Jika pada satu level belum ditemukan solusi, maka pencarian akan dilakukan pada level berikutnya dan seterusnya sampai ditemukan solusi.
 
+https://github.com/AldoHadid/KipasAngin/issues/6#issue-607070381 foto compile
 /*Menggunakan branch and bound yang merupakan algoritma
           Breath First Search yang berjalan layaknya penggunaan queue */
 
