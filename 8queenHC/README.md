@@ -1,3 +1,5 @@
+https://github.com/AldoHadid/KipasAngin/issues/4#issue-607057023 foot compile
+
 Hill Climbing adalah algoritma berulang yang dimulai dengan solusi yang berubah-ubah, lalu mencoba untuk menemukan soulsi yang lebih baik.
 Jika perubahan menghasilkan solusi yang lebih baik, perubahan tambahan dibuat untuk solusi baru, perubahan akan diulang sampai tidak ada perbaikan yang dapat ditemukan.
 
