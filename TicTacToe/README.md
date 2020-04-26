@@ -1,3 +1,5 @@
+https://github.com/AldoHadid/KipasAngin/issues/3#issue-607051228 foto compile
+
 Dengan minimax ini, AI bisa membuat keputusan yang memungkinkan dirinya tidak terkalahkan, 
 karena AI akan membuat simulasi setiap kemungkinan yang ada dan memastikan pergerakan dia 
 selanjutnya benar benar kemenangan.
